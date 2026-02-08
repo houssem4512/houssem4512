@@ -1,7 +1,7 @@
 <!-- ===================== HEADER / BANNER ===================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner1.png" width="100%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner1.PNG" width="100%" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Houssem Belhabib</h1>
