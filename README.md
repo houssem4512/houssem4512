@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK" width="100%" />
+  <img src="(https://github.com/houssem4512/Houssem_Belhabib/blob/main/banner.png?raw=true)" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Houssem Belhabib</h1>
