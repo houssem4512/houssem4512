@@ -1,21 +1,21 @@
-<!-- ===================== HEADER / BANNER ===================== -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/houssem4512/Houssem_Belhabib/main/banner1.PNG" width="100%" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Houssem Belhabib</h1>
-<h3 align="center">Data Science Engineering Student | AI & ML Enthusiast | Full Stack Developer</h3>
+<h3 align="center">2nd Year Data Science Engineering Student | AI & ML Enthusiast | BI & Full Stack Developer</h3>
 
 ---
 
 ## 🎓 Introduction
 
-I am a **2nd-year Engineering student specializing in Data Science**.  
-I am passionate about transforming data into meaningful insights and building intelligent, scalable applications.  
-I enjoy working on **Machine Learning models**, **Business Intelligence solutions**, and **full-stack development projects**.
+I am a **2nd-year Engineering student specializing in Data Science**, passionate about transforming data into meaningful insights and building **intelligent, scalable applications**.  
 
-My goal is to combine **data analysis, AI, and software development** to solve real-world problems and deliver impactful solutions.
+I enjoy working on **Machine Learning models**, **Business Intelligence dashboards**, **Data Analytics solutions**, and **full-stack web applications**.  
+
+My goal is to combine **data analysis, AI, and software development** to solve real-world problems and deliver impactful digital solutions.
 
 ---
 
@@ -23,10 +23,10 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 
 - 📊 Data Science Engineering Student (2nd Year)  
 - 🤖 Interested in Machine Learning & AI  
-- 📈 Passionate about Business Intelligence & Data Visualization  
+- 📈 Passionate about Business Intelligence & Data Analytics  
 - 💻 Experienced in Full Stack Development  
-- 🚀 Continuously learning and exploring new technologies  
-- 🧠 Strong analytical and problem-solving mindset  
+- 🧠 Strong analytical & problem-solving mindset  
+- 🚀 Continuously learning new technologies  
 
 ---
 
@@ -42,19 +42,24 @@ My goal is to combine **data analysis, AI, and software development** to solve r
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,laravel,spring" />
 </p>
 
-### 🐍 Python Frameworks / AI
+### 🐍 Python Frameworks / ML / AI
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,jupyter" />
 </p>
 
-### 🗄️ Databases & Data Tools
+### 📊 Data Science & Analytics
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,pandas,numpy,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikit" />
 </p>
 
-### 📊 Business Intelligence / Data Analysis
+### 📈 Business Intelligence & Data Analytics Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,kaggle,excel" />
+  <img src="https://skillicons.dev/icons?i=powerbi,excel,tableau,kaggle,anaconda" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### ⚙️ Tools & Technologies
@@ -66,11 +71,11 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 
 ## 📌 Areas of Interest
 
-- Artificial Intelligence & Machine Learning  
-- Predictive Modeling & Data Analysis  
+- Machine Learning & Artificial Intelligence  
+- Predictive Modeling & Data Analytics  
 - Business Intelligence & Data Visualization  
 - Full Stack Web & Mobile Development  
-- Software Engineering  
+- Software Engineering & DevOps  
 
 ---
 
@@ -100,7 +105,7 @@ My goal is to combine **data analysis, AI, and software development** to solve r
 
 ## 🌍 Connect With Me
 
-<p>
+<p align="center">
   <a href="YOUR_LINKEDIN_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -110,26 +115,22 @@ My goal is to combine **data analysis, AI, and software development** to solve r
   <a href="YOUR_PORTFOLIO">
     <img src="https://skillicons.dev/icons?i=website" />
   </a>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE_USERNAME">
+    <img src="https://skillicons.dev/icons?i=kaggle" />
+  </a>
 </p>
 
 ---
 
 ## ✨ Professional Vision
 
-I aim to contribute to innovative projects in **data science, AI, BI, and software engineering** while continuously improving my technical skills and collaborating on meaningful projects.
+I aim to contribute to innovative projects in **Data Science, Machine Learning, Business Intelligence, and Software Engineering**, while continuously improving my technical skills and collaborating on meaningful projects.
 
 ---
 
 ## 🙏 Thank You
 
-Thank you for visiting my GitHub profile.  
+Thank you for visiting my GitHub profile!  
 Feel free to explore my repositories, collaborate on projects, or connect for knowledge sharing and professional opportunities.  
 
-⭐ If you find my projects useful, don’t forget to star them!
-
-## 🙏 Thank You
-
-Thank you for visiting my GitHub profile.  
-
-
-⭐ If you find my projects interesting, don't forget to star them!
+⭐ If you like my projects, don’t forget to star them!
